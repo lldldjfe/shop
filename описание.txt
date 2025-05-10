@@ -1,0 +1,5 @@
+django
+sqlite3
+bootstrap
+docker
+
